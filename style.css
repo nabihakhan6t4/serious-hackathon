@@ -3,13 +3,8 @@
     src: url(fonts/Roboto-Regular.ttf);
 }    
 body{
-    background: radial-gradient(71.13% 75.35% at 40.49% 0%, #CAD0D4 0%, #B8C0C7 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
-    background: radial-gradient(56.34% 42.51% at 46.9% 60.87%, rgba(229, 232, 235, 0.409079) 0%, rgba(229, 232, 235, 0.0001) 100%);
-    background: linear-gradient(0deg, #D3D7DB 0%, rgba(211, 215, 219, 0.0001) 15.62%);
-    background-blend-mode: color;
-    background: #FFFFFF26;
-    
-    
+   background: #FFFFFF;
+   background: #CAD0D4 ;
 }
 body{
     font-family:"roboto-regular" ;
